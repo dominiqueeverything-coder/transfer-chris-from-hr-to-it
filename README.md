@@ -1,6 +1,6 @@
 <h1>New employee setup — Chris Royal (HR)</h1>
 
- ### [Video Creating User](https://www.loom.com/share/51c5761ee7dc49719be92c880ee016ea)
+ ### [Video of Transferring User](https://www.loom.com/share/51c5761ee7dc49719be92c880ee016ea)
  
 
 <h2>REQUEST</h2>
